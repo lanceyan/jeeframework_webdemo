@@ -50,9 +50,9 @@
 								<h1>
 									<i class="ace-icon fa fa-leaf green"></i>
 									<span class="red">webdemo</span>
-									<span class="white" id="id-text2">后台管理系统</span>
+									<span class="white" id="id-text2">管理系统</span>
 								</h1>
-								<h4 class="blue" id="id-company-text">&copy; hyfaytech.com </h4>
+								<h4 class="blue" id="id-company-text">&copy; jeeframework.com </h4>
 							</div>
 
 							<div class="space-6"></div>
