@@ -3,10 +3,10 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee"
          xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-         id="quokkachat" version="3.0">
+         id="jeeframework" version="3.0">
     <context-param>
         <param-name>webAppRootKey</param-name>
-        <param-value>quokkachat.root</param-value>
+        <param-value>jeeframework.root</param-value>
     </context-param>
 
     <context-param>
@@ -101,11 +101,11 @@
 
     <jsp-config>
         <taglib>
-            <taglib-uri>http://www.quokkachat.com/tags-spring</taglib-uri>
+            <taglib-uri>http://www.jeeframework.com/tags-spring</taglib-uri>
             <taglib-location>/WEB-INF/tlds/spring.tld</taglib-location>
         </taglib>
         <taglib>
-            <taglib-uri>http://www.quokkachat.com/tags-jstl</taglib-uri>
+            <taglib-uri>http://www.jeeframework.com/tags-jstl</taglib-uri>
             <taglib-location>/WEB-INF/tlds/c.tld</taglib-location>
         </taglib>
     </jsp-config>
